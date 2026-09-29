@@ -1,0 +1,32 @@
+# VirtualBox
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+*.sav
+*.log
+
+# VirtualBox machine configuration
+*.vbox
+*.vbox-prev
+
+# Snapshots
+Snapshots/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secrets / credentials
+.env
+*.pem
+*.key
+credentials/
+secrets/
+
+# Temporary files
+*.tmp
+*.temp
