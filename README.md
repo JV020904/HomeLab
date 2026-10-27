@@ -272,12 +272,12 @@ The lab is still actively being developed.
 * [x] Create domain users
 * [x] Create security groups
 * [x] Configure initial group memberships
-* [ ] Test domain authentication
-* [ ] Test standard user permissions
-* [ ] Configure help-desk delegation
+* [x] Test domain authentication
+* [x] Test standard user permissions
+* [x] Configure help-desk delegation
 * [ ] Create and deploy Group Policy Objects
 * [ ] Configure password/account policies
-* [ ] Practice account lockout and recovery scenarios
+* [x] Practice account lockout and recovery scenarios
 
 ### Windows Administration
 
@@ -286,11 +286,11 @@ The lab is still actively being developed.
 * [x] Static IP configuration
 * [x] DNS configuration
 * [x] Windows network profile troubleshooting
-* [ ] Remote administration
+* [x] Remote administration
 * [ ] Windows event log analysis
-* [ ] Local and domain permission troubleshooting
+* [x] Local and domain permission troubleshooting
 * [ ] Software deployment
-* [ ] Group Policy administration
+* [x] Group Policy administration
 
 ### Networking
 
@@ -309,7 +309,7 @@ The lab is still actively being developed.
 * [x] Create simulated help-desk incidents
 * [x] Document troubleshooting methodology
 * [ ] User account troubleshooting
-* [ ] Password/account lockout scenarios
+* [x] Password/account lockout scenarios
 * [ ] File/share permission issues
 * [ ] Printer troubleshooting
 * [ ] Software installation issues
@@ -365,10 +365,9 @@ The goal is not simply to have a working virtual environment, but to develop the
 
 ## 📌 Project Status
 
-**Current Phase:** Active Directory user and group management
+**Current Phase:** Developing more troubleshooting scenarios, utilizing help-desk to resolve them.
 
-The core Active Directory environment is operational. The next stage will focus on validating domain accounts, testing permissions and implementing controlled help-desk delegation.
-
+The core Active Directory environment is operational, delegating permissions and password lockout is functional.
 ---
 
 ## Author
